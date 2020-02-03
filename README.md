@@ -6,32 +6,31 @@ A universal VSCode plugin for classes in the Wright State CSE department.
 
 ## For Specific Classes
 
-* ExtensionName (Author)
-* Arduino (Microsoft)
-* C/C++ (Microsoft)
-* C/C++ Compile Run (danielpinto8zz6)
-* iLLC3 (iLLC3_DevTeam)
-* Python (Microsoft)
-* Visual Studio IntelliCode (Microsoft)
-* Java Extension Pack (Microsoft)
-* Modern VHDL (rjyoung)
+* Arduino (vsciot-vscode.vscode-arduino)
+* C/C++ (ms-vscode.cpptools)
+* C/C++ Compile Run (danielpinto8zz6.c-cpp-compile-run)
+* iLLC3 (ik4pupwfc52vswdvq4zuuxru5tpduuh7cur42icg2uylyvmpmd3q.lc3-lang)
+* Python (ms-python.python)
+* Visual Studio IntelliCode (visualstudioexptteam.vscodeintellicode)
+* Java Extension Pack (vscjava.vscode-java-pack)
+* Modern VHDL (rjyoung.vscode-modern-vhdl-support)
 
 ## Nice to Have
 
-* Bookmarks (Alessandro Fragnani)
-* GitLens - Git supercharged (Eric Amodio)
-* Live Share (Microsoft) (Concerns about easy ability to cheat)
-* Path Autocomplete (Mihai Vilcu)
-* Python Indent (Kevin Rose)
+* Bookmarks (alefragnani.bookmarks)
+* GitLens - Git supercharged (eamodio.gitlens)
+* Live Share (ms-vsliveshare.vsliveshare-pack) (Concerns about easy ability to cheat)
+* Path Autocomplete (ionutvmi.path-autocomplete)
+* Python Indent (kevinrose.vsc-python-indent)
 
 ## Formatters
 
-* Spell Right (Bartosz Antosik)
-* ESLint (Dirk Baeumer)
+* Spell Right (ban.spellright)
+* ESLint (dbaeumer.vscode-eslint)
 
 ## Eye Candy
 
-* Better Comments (Aaron Bond)
-* Bracket Pair Colorizer 2 (CoenraddS)
-* indent-rainbow (oderwat)
+* Better Comments (aaron-bond.better-comments)
+* Bracket Pair Colorizer 2 (coenraads.bracket-pair-colorizer-2)
+* indent-rainbow (oderwat.indent-rainbow)
 
