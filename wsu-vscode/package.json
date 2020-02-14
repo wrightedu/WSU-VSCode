@@ -3,7 +3,7 @@
 	"displayName": "WSU-VSCode",
 	"description": "Universal VSCode plugin for classes in the Wright State CSE department",
 	"version": "0.0.1",
-	"publisher": "wrightedu-dummytester",
+	"publisher": "wrightedu",
 	"author": {
 		"name": "Wright State University"
 	},
@@ -22,10 +22,11 @@
 	],
 	"categories": [
 		"Other",
-		"Packages"
+		"Extension Packs"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWSU"
+		"onCommand:extension.helloWSU",
+		"onCommand:extension.helloConsole"
 	],
 	"main": "./extension.js",
 	"contributes": {
@@ -33,6 +34,11 @@
 			{
 				"command": "extension.helloWSU",
 				"title": "Hello WSU"
+			},
+
+			{
+				"command": "extension.helloConsole",
+				"title": "Hello Console"
 			}
 		]
 	},
