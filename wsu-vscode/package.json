@@ -57,22 +57,14 @@
 	},
 	"extensionDependencies": [
 		"aaron-bond.better-comments",
-		//"alefragnani.bookmarks",
 		"coenraads.bracket-pair-colorizer-2",
 		"ban.spellright",
 		"danielpinto8zz6.c-cpp-compile-run",
-		//"dbaeumer.vscode-eslint",
 		"eamodio.gitlens",
-		//"ik4pupwfc52vswdvq4zuuxru5tpduuh7cur42icg2uylyvmpmd3q.lc3-lang",
 		"ionutvmi.path-autocomplete",
-		//"kevinrose.vsc-python-indent",
 		"ms-vsliveshare.vsliveshare-pack",
-		//"ms-python.python",
 		"ms-vscode.cpptools",
 		"oderwat.indent-rainbow",
-		//"rjyoung.vscode-modern-vhdl-support",
-		"visualstudioexptteam.vscodeintellicode",
-		//"vsciot-vscode.vscode-arduino",
-		//"vscjava.vscode-java-pack"
+		"visualstudioexptteam.vscodeintellicode"
 	]
 }
