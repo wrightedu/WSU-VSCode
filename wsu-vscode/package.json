@@ -2,7 +2,7 @@
 	"name": "wsu-vscode",
 	"displayName": "WSU-VSCode",
 	"description": "Universal VSCode plugin for classes in the Wright State CSE department",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"publisher": "wrightedu",
 	"author": {
 		"name": "Wright State University"
@@ -25,20 +25,19 @@
 		"Extension Packs"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWSU",
-		"onCommand:extension.helloConsole"
+		"onCommand:wsuvscode.makeProject",
+		"onCommand:wsuvscode.profileProject"
 	],
-	"main": "./extension.js",
+	"main": "./src/wsuvscode.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWSU",
-				"title": "Hello WSU"
+				"command": "wsuvscode.makeProject",
+				"title": "WSU: Make Project"
 			},
-
 			{
-				"command": "extension.helloConsole",
-				"title": "Hello Console"
+				"command": "wsuvscode.profileProject",
+				"title": "WSU: Profile Project"
 			}
 		]
 	},
@@ -58,23 +57,14 @@
 	},
 	"extensionDependencies": [
 		"aaron-bond.better-comments",
-		"alefragnani.bookmarks",
 		"coenraads.bracket-pair-colorizer-2",
 		"ban.spellright",
 		"danielpinto8zz6.c-cpp-compile-run",
-		"dbaeumer.vscode-eslint",
 		"eamodio.gitlens",
-		"ik4pupwfc52vswdvq4zuuxru5tpduuh7cur42icg2uylyvmpmd3q.lc3-lang",
 		"ionutvmi.path-autocomplete",
-		"kevinrose.vsc-python-indent",
 		"ms-vsliveshare.vsliveshare-pack",
-		"ms-python.python",
 		"ms-vscode.cpptools",
 		"oderwat.indent-rainbow",
-		"rjyoung.vscode-modern-vhdl-support",
-		"visualstudioexptteam.vscodeintellicode",
-		"vsciot-vscode.vscode-arduino",
-		"vscjava.vscode-java-pack"
-
+		"visualstudioexptteam.vscodeintellicode"
 	]
 }
