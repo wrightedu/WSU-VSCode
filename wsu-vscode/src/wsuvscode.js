@@ -60,6 +60,7 @@ function activate(context) {
 				vscode.window.showInformationMessage("Profiling " + program);
 
 				// ... And then ectually run the profiler
+				// TODO Have stdout and stdin be connected to a vscode pseudo terminal
 				sys.exec('bash -c "valgrind --tool=callgrind ' + program + '"', {cwd: vscode.workspace.rootPath}, (e, stdout, stderr) => {
 					
 					// If an error occured, display everything that popped up in sterr to the user
