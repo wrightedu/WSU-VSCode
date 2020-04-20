@@ -26,18 +26,6 @@
 		"Extension Packs"
 	],
 	"main": "./src/cs1180.js",
-	"contributes": {
-		"commands": [
-			{
-				"command": "wsuvscode.makeProject",
-				"title": "WSU: Make Project"
-			},
-			{
-				"command": "wsuvscode.profileProject",
-				"title": "WSU: Profile Project"
-			}
-		]
-	},
 	"scripts": {
 		"test": "node ./test/runTest.js"
 	},
