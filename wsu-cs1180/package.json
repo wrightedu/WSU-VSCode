@@ -1,6 +1,6 @@
 {
 	"name": "wsu-cs1180",
-	"displayName": "WSU-VSCode",
+	"displayName": "WSU CS 1180",
 	"description": "VSCode plugin for CS 1180 class in the Wright State CSE department",
 	"version": "0.0.1",
 	"publisher": "WrightStateUniversity-ComputerScience",
