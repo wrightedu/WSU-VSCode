@@ -4,7 +4,7 @@ Universal VSCode plugin for classes in the Wright State CSE department
 
 ## Features
 
-For now, this is simply installs a selecton of extensions deemed useful for courses. To suggest new extensions, email cse-support.
+For now, this is simply installs a selecton of extensions deemed useful for courses and some basic compilation and profiling support for C and C++. To suggest new extensions, email cse-support.
 
 ## Requirements
 
@@ -47,3 +47,15 @@ None known. If you find any, email cse-support
 ### 0.0.1 
 
 Initial release.
+
+### 0.0.2
+
+Added support for makefiles
+
+### 0.0.3
+
+Profiles projects through WSL bash
+
+### 0.0.4
+
+Added PHP extensions.

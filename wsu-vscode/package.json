@@ -1,9 +1,9 @@
 {
-	"name": "wsu-vscode",
-	"displayName": "WSU-VSCode",
+	"name": "wsu-cse",
+	"displayName": "WSU CSE",
 	"description": "Universal VSCode plugin for classes in the Wright State CSE department",
-	"version": "0.0.3",
-	"publisher": "wrightedu",
+	"version": "0.0.4",
+	"publisher": "WrightStateUniversity-ComputerScience",
 	"author": {
 		"name": "Wright State University"
 	},
@@ -61,6 +61,8 @@
 		"ban.spellright",
 		"danielpinto8zz6.c-cpp-compile-run",
 		"eamodio.gitlens",
+		"felixfbecker.php-debug",
+		"felixfbecker.php-intellisense",
 		"ionutvmi.path-autocomplete",
 		"ms-vsliveshare.vsliveshare-pack",
 		"ms-vscode.cpptools",
