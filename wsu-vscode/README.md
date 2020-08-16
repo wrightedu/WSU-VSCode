@@ -4,7 +4,7 @@ Universal VSCode plugin for classes in the Wright State CSE department
 
 ## Features
 
-For now, this is simply installs a selecton of extensions deemed useful for courses and some basic compilation and profiling support for C and C++. To suggest new extensions, email cse-support.
+For now, this is simply installs a selection of extensions deemed useful for courses and some basic compilation and profiling support for C and C++. To suggest new extensions, email cse-support.
 
 ## Requirements
 
@@ -13,6 +13,8 @@ For now, this is simply installs a selecton of extensions deemed useful for cour
 * C/C++ (Microsoft)
 * C/C++ Compile Run (danielpinto8zz6)
 * iLLC3 (iLLC3_DevTeam)
+* PHP Debug (Felix Becker)
+* PHP IntelliSense (Felix Becker)
 * Python (Microsoft)
 * Visual Studio IntelliCode (Microsoft)
 * Java Extension Pack (Microsoft)
