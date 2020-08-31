@@ -2,7 +2,7 @@
 	"name": "wsu-cse",
 	"displayName": "WSU CSE",
 	"description": "Universal VSCode plugin for classes in the Wright State CSE department",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "WrightStateUniversity-ComputerScience",
 	"author": {
 		"name": "Wright State University"
@@ -65,6 +65,7 @@
 		"felixfbecker.php-intellisense",
 		"ionutvmi.path-autocomplete",
 		"vscjava.vscode-java-pack",
+		"ms-python.python",
 		"ms-vsliveshare.vsliveshare-pack",
 		"ms-vscode.cpptools",
 		"oderwat.indent-rainbow",
