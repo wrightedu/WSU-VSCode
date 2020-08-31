@@ -61,3 +61,7 @@ Profiles projects through WSL bash
 ### 0.0.4
 
 Added PHP extensions.
+
+### 0.0.5
+
+Added the Java extension pack
