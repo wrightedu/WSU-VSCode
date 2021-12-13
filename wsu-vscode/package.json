@@ -57,18 +57,27 @@
 	},
 	"extensionDependencies": [
 		"aaron-bond.better-comments",
-		"coenraads.bracket-pair-colorizer-2",
 		"ban.spellright",
+		"coenraads.bracket-pair-colorizer-2",
 		"danielpinto8zz6.c-cpp-compile-run",
 		"eamodio.gitlens",
+		"ecmel.vscode-html-css",
+		"ecodes.vscode-phpmd",
+		"esbenp.prettier-vscode",
 		"felixfbecker.php-debug",
 		"felixfbecker.php-intellisense",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
 		"ionutvmi.path-autocomplete",
-		"vscjava.vscode-java-pack",
+		"kokororin.vscode-phpfmt",
+		"PKief.material-icon-theme",
 		"ms-python.python",
-		"ms-vsliveshare.vsliveshare-pack",
 		"ms-vscode.cpptools",
+		"ms-vsliveshare.vsliveshare-pack",
 		"oderwat.indent-rainbow",
-		"visualstudioexptteam.vscodeintellicode"
+		"ritwickdey.LiveServer",
+		"techer.open-in-browser",
+		"visualstudioexptteam.vscodeintellicode",
+		"vscjava.vscode-java-pack"
 	]
 }
