@@ -2,7 +2,7 @@
 	"name": "wsu-cse",
 	"displayName": "WSU CSE",
 	"description": "Universal VSCode plugin for classes in the Wright State CSE department",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"publisher": "WrightStateUniversity-ComputerScience",
 	"author": {
 		"name": "Wright State University"
