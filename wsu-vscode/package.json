@@ -2,7 +2,7 @@
 	"name": "wsu-cse",
 	"displayName": "WSU CSE",
 	"description": "Universal VSCode plugin for classes in the Wright State CSE department",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"publisher": "WrightStateUniversity-ComputerScience",
 	"author": {
 		"name": "Wright State University"
@@ -57,18 +57,17 @@
 	},
 	"extensionDependencies": [
 		"aaron-bond.better-comments",
-		"coenraads.bracket-pair-colorizer-2",
 		"ban.spellright",
 		"danielpinto8zz6.c-cpp-compile-run",
 		"eamodio.gitlens",
-		"felixfbecker.php-debug",
-		"felixfbecker.php-intellisense",
 		"ionutvmi.path-autocomplete",
-		"vscjava.vscode-java-pack",
 		"ms-python.python",
+		"ms-vscode.cpptools-extension-pack",
 		"ms-vsliveshare.vsliveshare-pack",
-		"ms-vscode.cpptools",
 		"oderwat.indent-rainbow",
-		"visualstudioexptteam.vscodeintellicode"
+		"visualstudioexptteam.vscodeintellicode",
+		"vscjava.vscode-java-pack",
+		"xdebug.php-debug",
+		"zobo.php-intellisense"
 	]
 }

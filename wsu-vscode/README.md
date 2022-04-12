@@ -69,3 +69,11 @@ Added the Java extension pack
 ### 0.0.6
 
 Added the Python extension pack
+
+### 0.0.7
+
+Security patches
+
+### 0.0.8
+
+Updated extension list
