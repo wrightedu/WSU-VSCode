@@ -60,7 +60,14 @@
 		"ban.spellright",
 		"danielpinto8zz6.c-cpp-compile-run",
 		"eamodio.gitlens",
+		"ecmel.vscode-html-css",
+		"ecodes.vscode-phpmd",
+		"esbenp.prettier-vscode",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
 		"ionutvmi.path-autocomplete",
+		"kokororin.vscode-phpfmt",
+		"PKief.material-icon-theme",
 		"ms-python.python",
 		"ms-vscode.cpptools-extension-pack",
 		"ms-vsliveshare.vsliveshare-pack",
@@ -69,5 +76,9 @@
 		"vscjava.vscode-java-pack",
 		"xdebug.php-debug",
 		"zobo.php-intellisense"
+		"ritwickdey.LiveServer",
+		"techer.open-in-browser",
+		"visualstudioexptteam.vscodeintellicode",
+		"vscjava.vscode-java-pack"
 	]
 }
