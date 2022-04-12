@@ -72,8 +72,16 @@ Added the Python extension pack
 
 ### 0.0.7
 
-Security patches
+idk lol
 
 ### 0.0.8
 
+Security patches
+
+### 0.0.9
+
 Updated extension list
+
+### 0.0.10
+
+Security Fix
