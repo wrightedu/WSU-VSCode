@@ -46,7 +46,7 @@ None known. If you find any, email cse-support
 
 ## Release Notes
 
-### 0.0.1 
+### 0.0.1
 
 Initial release.
 
@@ -85,3 +85,7 @@ Updated extension list
 ### 0.0.10
 
 Security Fix
+
+### 0.0.11
+
+Major Security Fix
