@@ -1,0 +1,6 @@
+bootstrap:docker
+From:node
+
+%post
+  yes | npm install -g vsce
+
