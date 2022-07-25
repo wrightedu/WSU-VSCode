@@ -13,7 +13,7 @@
 		"url": "https://github.com/wrightedu/WSU-VSCode"
 	},
 	"engines": {
-		"vscode": "^1.41.0"
+		"vscode": "^1.69.2"
 	},
 	"keywords": [
 		"wsu",
@@ -70,7 +70,6 @@
 		"PKief.material-icon-theme",
 		"ms-python.python",
 		"ms-vscode.cpptools-extension-pack",
-		"ms-vsliveshare.vsliveshare-pack",
 		"oderwat.indent-rainbow",
 		"visualstudioexptteam.vscodeintellicode",
 		"vscjava.vscode-java-pack",
@@ -79,6 +78,7 @@
 		"ritwickdey.LiveServer",
 		"techer.open-in-browser",
 		"visualstudioexptteam.vscodeintellicode",
-		"vscjava.vscode-java-pack"
+		"vscjava.vscode-java-pack",
+    "ms-vscode.makefile-tools"
 	]
 }
