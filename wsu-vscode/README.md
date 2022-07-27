@@ -1,91 +1,46 @@
-# wsu-vscode README
+# WSU-VSCode
 
-Universal VSCode plugin for classes in the Wright State CSE department
+A universal VSCode plugin for classes in the Wright State CSE department.
 
-## Features
+Note: This package does not install any compilers or debuggers, you should have those installed first by using [this guide](https://github.com/wrightedu/Programmers-Guide-to-the-Galaxy/blob/master/Getting-Started/Software-Installations/README.md)
 
-For now, this is simply installs a selection of extensions deemed useful for courses and some basic compilation and profiling support for C and C++. To suggest new extensions, email cse-support.
+# Included Extensions
 
-## Requirements
+## Java Extensions
 
-### For Specific Classes
-* Arduino (Microsoft)
-* C/C++ (Microsoft)
-* C/C++ Compile Run (danielpinto8zz6)
-* iLLC3 (iLLC3_DevTeam)
-* PHP Debug (Felix Becker)
-* PHP IntelliSense (Felix Becker)
-* Python (Microsoft)
-* Visual Studio IntelliCode (Microsoft)
-* Java Extension Pack (Microsoft)
-* Modern VHDL (rjyoung)
+* Java Extension Pack (vscjava.vscode-java-pack)
 
-### Nice to Have
-* Bookmarks (Alessandro Fragnani)
-* GitLens - Git supercharged (Eric Amodio)
-* Live Share (Microsoft) (Concerns about easy ability to cheat)
-* Path Autocomplete (Mihai Vilcu)
-* Python Indent (Kevin Rose)
+## C++ Extensions
 
-### Formatters
-* Spell Right (Bartosz Antosik)
-* ESLint (Dirk Baeumer)
+* C/C++ (ms-vscode.cpptools)
+* C/C++ Compile Run (danielpinto8zz6.c-cpp-compile-run)
+* Makefile Tools (ms-vscode.makefile-tools)
+* Arduino (vsciot-vscode.vscode-arduino)
 
-### Eye Candy
-* Better Comments (Aaron Bond)
-* Bracket Pair Colorizer 2 (CoenraddS)
-* indent-rainbow (oderwat)
+## Python Extensions
 
-## Extension Settings
+* Python (ms-python.python)
 
-None
+## Web Development
 
-## Known Issues
+* Visual Studio IntelliCode (visualstudioexptteam.vscodeintellicode)
+* Modern VHDL (rjyoung.vscode-modern-vhdl-support)
+* HTML CSS (ecmel.vscode-html-css)
+* PHP (ecodes.vscode-phpmd)
+* Auto close tag (formulahendry.auto-close-tag)
+* Auto rename tag (formulahendry.auto-rename-tag)
+* Path autocomplete (ionutvmi.path-autocomplete)
+* PHP format (kokororin.vscode-phpfmt)
+* LiveServer (ritwickdey.LiveServer)
+* Open in browser (techer.open-in-browser)
+* PHP debug (xdebug.php-debug)
+* PHP Intellisense (zobo.php-intellisense)
 
-None known. If you find any, email cse-support
+## Formatters & Eye Candy
 
-## Release Notes
-
-### 0.0.1
-
-Initial release.
-
-### 0.0.2
-
-Added support for makefiles
-
-### 0.0.3
-
-Profiles projects through WSL bash
-
-### 0.0.4
-
-Added PHP extensions.
-
-### 0.0.5
-
-Added the Java extension pack
-
-### 0.0.6
-
-Added the Python extension pack
-
-### 0.0.7
-
-idk lol
-
-### 0.0.8
-
-Security patches
-
-### 0.0.9
-
-Updated extension list
-
-### 0.0.10
-
-Security Fix
-
-### 0.0.11
-
-Major Security Fix
+* Spell Right (ban.spellright)
+* ESLint (dbaeumer.vscode-eslint)
+* Better Comments (aaron-bond.better-comments)
+* indent-rainbow (oderwat.indent-rainbow)
+* Prettier (esbenp.prettier-vscode)
+* Material Icons (PKief.material-icon-theme)
