@@ -2,35 +2,45 @@
 
 A universal VSCode plugin for classes in the Wright State CSE department.
 
-# Desired Extensions
+Note: This package does not install any compilers or debuggers, you should have those installed first by using [this guide](https://github.com/wrightedu/Programmers-Guide-to-the-Galaxy/blob/master/Getting-Started/Software-Installations/README.md)
 
-## For Specific Classes
+# Included Extensions
 
-* Arduino (vsciot-vscode.vscode-arduino)
+## Java Extensions
+
+* Java Extension Pack (vscjava.vscode-java-pack)
+
+## C++ Extensions
+
 * C/C++ (ms-vscode.cpptools)
 * C/C++ Compile Run (danielpinto8zz6.c-cpp-compile-run)
-* iLLC3 (ik4pupwfc52vswdvq4zuuxru5tpduuh7cur42icg2uylyvmpmd3q.lc3-lang)
+* Makefile Tools (ms-vscode.makefile-tools)
+* Arduino (vsciot-vscode.vscode-arduino)
+
+## Python Extensions
+
 * Python (ms-python.python)
+
+## Web Development
+
 * Visual Studio IntelliCode (visualstudioexptteam.vscodeintellicode)
-* Java Extension Pack (vscjava.vscode-java-pack)
 * Modern VHDL (rjyoung.vscode-modern-vhdl-support)
+* HTML CSS (ecmel.vscode-html-css)
+* PHP (ecodes.vscode-phpmd)
+* Auto close tag (formulahendry.auto-close-tag)
+* Auto rename tag (formulahendry.auto-rename-tag)
+* Path autocomplete (ionutvmi.path-autocomplete)
+* PHP format (kokororin.vscode-phpfmt)
+* LiveServer (ritwickdey.LiveServer)
+* Open in browser (techer.open-in-browser)
+* PHP debug (xdebug.php-debug)
+* PHP Intellisense (zobo.php-intellisense)
 
-## Nice to Have
-
-* Bookmarks (alefragnani.bookmarks)
-* GitLens - Git supercharged (eamodio.gitlens)
-* Live Share (ms-vsliveshare.vsliveshare-pack) (Concerns about easy ability to cheat)
-* Path Autocomplete (ionutvmi.path-autocomplete)
-* Python Indent (kevinrose.vsc-python-indent)
-
-## Formatters
+## Formatters & Eye Candy
 
 * Spell Right (ban.spellright)
 * ESLint (dbaeumer.vscode-eslint)
-
-## Eye Candy
-
 * Better Comments (aaron-bond.better-comments)
-* Bracket Pair Colorizer 2 (coenraads.bracket-pair-colorizer-2)
 * indent-rainbow (oderwat.indent-rainbow)
-
+* Prettier (esbenp.prettier-vscode)
+* Material Icons (PKief.material-icon-theme)
