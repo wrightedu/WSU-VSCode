@@ -15,7 +15,6 @@ Note: This package does not install any compilers or debuggers, you should have 
 * C/C++ (ms-vscode.cpptools)
 * C/C++ Compile Run (danielpinto8zz6.c-cpp-compile-run)
 * Makefile Tools (ms-vscode.makefile-tools)
-* Arduino (vsciot-vscode.vscode-arduino)
 
 ## Python Extensions
 
@@ -26,15 +25,13 @@ Note: This package does not install any compilers or debuggers, you should have 
 * Visual Studio IntelliCode (visualstudioexptteam.vscodeintellicode)
 * Modern VHDL (rjyoung.vscode-modern-vhdl-support)
 * HTML CSS (ecmel.vscode-html-css)
-* PHP (ecodes.vscode-phpmd)
 * Auto close tag (formulahendry.auto-close-tag)
 * Auto rename tag (formulahendry.auto-rename-tag)
 * Path autocomplete (ionutvmi.path-autocomplete)
-* PHP format (kokororin.vscode-phpfmt)
 * LiveServer (ritwickdey.LiveServer)
 * Open in browser (techer.open-in-browser)
+* Open PHP/HTML/JS in browser (primafuture.open-php-html-js-in-browser)
 * PHP debug (xdebug.php-debug)
-* PHP Intellisense (zobo.php-intellisense)
 
 ## Formatters & Eye Candy
 
