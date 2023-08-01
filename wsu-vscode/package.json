@@ -60,24 +60,21 @@
 		"ban.spellright",
 		"danielpinto8zz6.c-cpp-compile-run",
 		"ecmel.vscode-html-css",
-		"ecodes.vscode-phpmd",
 		"esbenp.prettier-vscode",
 		"formulahendry.auto-close-tag",
 		"formulahendry.auto-rename-tag",
 		"ionutvmi.path-autocomplete",
-		"kokororin.vscode-phpfmt",
-		"ms-python.python",
+    "ms-python.python",
 		"ms-vscode.cpptools-extension-pack",
 		"ms-vscode.makefile-tools",
 		"ms-vscode-remote.remote-wsl",
 		"oderwat.indent-rainbow",
 		"PKief.material-icon-theme",
+		"primafuture.open-php-html-js-in-browser",
 		"ritwickdey.LiveServer",
 		"techer.open-in-browser",
 		"visualstudioexptteam.vscodeintellicode",
-		"vsciot-vscode.vscode-arduino",
 		"vscjava.vscode-java-pack",
-		"xdebug.php-debug",
-		"zobo.php-intellisense"
+		"xdebug.php-debug"
 	]
 }
